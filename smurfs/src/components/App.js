@@ -6,10 +6,6 @@ import { getCharacters } from "../actions";
 
 class App extends Component {
 
-  // componentDidMount(props) {
-  //   props.getCharacters(props);
-  // }
-
   render() {
     return (
       <div className="App">
