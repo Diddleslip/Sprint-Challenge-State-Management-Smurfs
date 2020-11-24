@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+
+.cardDiv {
+  width: 50%;
+  margin: auto;
+  background: lightblue;
+  color: black;
+  padding: 1%;
+  margin-top: 1%;
+}
